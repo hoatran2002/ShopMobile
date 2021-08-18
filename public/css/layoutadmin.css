@@ -1,0 +1,17 @@
+.header ul.user
+{
+	padding: 0px;
+	margin: 0px;
+}
+.header ul.user li
+{
+	display: inline-block;
+}
+.header ul.user li a
+{
+	line-height: 40px;
+	padding: 0px 10px;
+	color: white;
+}
+
+

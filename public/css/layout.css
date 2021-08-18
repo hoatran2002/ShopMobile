@@ -1,0 +1,21 @@
+.ndp-topbar
+{
+	min-height: 40px;
+	line-height: 40px;
+}
+.bg-text
+{
+	color: white;
+}
+.bg-ducphu
+{
+	background-color:#3C3F44;
+}
+.bg-menu
+{
+	background-color:#EB5858;
+}
+.bg-foot
+{
+	background-color: #E9EBEE;
+}
